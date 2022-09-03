@@ -1,0 +1,4 @@
+AuthUserFile /home/admin/web/amca2018.org/stats/.htpasswd
+AuthName "Web Statistics"
+AuthType Basic
+Require valid-user

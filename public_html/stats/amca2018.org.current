@@ -1,0 +1,381 @@
+# Webalizer V2.23-08 Incremental Data - 04/02/2018 03:11:16
+2018 4 2 3 11 16
+372 342 38 52 14 9 7661253 61 14 0 0 0
+1 1 230 1 2
+371 342 7660827 37 60 13 0 0
+1 0 426 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+34 34 238210 3 0 0
+0 0 0 0 0 0
+2 2 2025 0 0 0
+1 0 426 1 0 0
+0 0 0 0 0 0
+1 1 6096 1 0 0
+22 0 9844 15 0 0
+0 0 0 0 0 0
+2 2 2025 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 6096 1 0 0
+2 2 2839 0 0 0
+0 0 0 0 0 0
+230 224 4096601 32 0 0
+74 73 3284834 6 0 0
+3 3 12257 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+342
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/libs/isotope/isotope.pkgd.min.js
+0 5 0 50720 0 0 0 0
+/assets/libs/animate-css/animate.min.css
+0 20 38340720 80420 0 0 0 0
+/assets/libs/iconmoon/style.css
+0 20 0 152380 0 0 0 0
+/assets/img/apple-touch-icon-76x76.png
+1 1 0 2774 0 0 0 0
+/callforpapers.html
+0 10 0 27510 1 0 0 0
+/assets/js/pages/
+0 5 0 3925 2 0 0 0
+/assets/libs/jquery/jquery-1.11.1.min.js
+0 5 0 167865 0 0 0 0
+/assets/libs/owl-carousel/owl.carousel.min.js
+0 5 0 34055 0 0 0 0
+/images/footer-bg.png
+1 4 38358256 261788 0 0 0 0
+/images/portfolio/en_zain.png
+1 4 2319365044555362360 294580 0 0 0 0
+/assets/libs/stellarjs/jquery.stellar.min.js
+0 5 0 18720 0 0 0 0
+/proceeding.html
+0 1 0 2554 0 0 0 0
+/assets/img/apple-touch-icon.png
+1 1 0 1960 0 0 0 0
+/assets/libs/pace/pace.min.js
+0 5 0 23450 0 0 0 0
+/assets/libs/owl-carousel/owl.carousel.css
+0 6 0 5148 0 0 0 0
+/assets/libs/bootstrap/css/bootstrap.min.css
+0 21 0 400071 0 0 0 0
+/assets/libs/bootstrap/js/bootstrap.min.js
+0 5 0 48935 0 0 0 0
+/assets/libs/iconmoon/fonts/icomoon.woff
+0 3 0 804852 0 0 0 0
+/assets/img/apple-touch-icon-57x57.png
+1 1 0 1960 0 0 0 0
+/assets/img/favicon.ico
+0 5 38359024 173955 0 0 0 0
+/images/logo/Unibersidad_ng_Pilipinas.png
+1 4 3472849451216805936 468100 0 0 0 0
+/assets/libs/less-js/less-1.7.5.min.js
+0 5 18446744073709551615 163240 0 0 0 0
+/images/portfolio/abdul.png
+1 4 8227351336231070068 433380 0 0 0 0
+/assets/libs/owl-carousel/owl.theme.css
+0 6 0 5616 0 0 0 0
+/assets/libs/owl-carousel/owl.transitions.css
+0 6 0 6150 0 0 0 0
+/images/logo/Logo umm ok.png
+1 4 4049068363256575024 449860 0 0 0 0
+/images/portfolio/Nek-Mah.jpg
+1 4 3472592183044939824 117580 0 0 0 0
+/assets/libs/pace/pace.css
+0 20 18446744073709551615 11480 0 0 0 0
+/images/portfolio/dato_wira.jpg
+1 4 3605746624332521840 54336 0 0 0 0
+/assets/libs/fastclick/fastclick.js
+0 5 0 35105 0 0 0 0
+/images/portfolio/Dra_ VINA SALVIANA D_S, M_Si.jpg
+1 4 0 283424 0 0 0 0
+/assets/libs/jquery-magnific/jquery.magnific-popup.min.js
+0 6 38360992 47586 0 0 0 0
+/images/logo/jru.png
+1 4 0 1175404 0 0 0 0
+/speakers.html
+0 7 0 18256 0 0 0 0
+/committees.html
+0 2 0 5988 1 0 0 0
+/assets/img/logo_dark.png
+1 6 0 52740 0 0 0 0
+/assets/js/pages/venue.js
+0 3 0 4731 0 0 0 0
+/assets/js/init.js
+0 5 0 14090 0 0 0 0
+/assets/img/logo.png
+1 15 0 131850 0 0 0 0
+/assets/libs/jquery-magnific/magnific-popup.css
+0 21 0 47628 0 0 0 0
+/images/portfolio/manzanoo.png
+1 4 0 364936 0 0 0 0
+/
+0 10 0 87861 8 0 0 0
+/assets/libs/jquery-appear/jquery.appear.js
+0 5 0 6160 0 0 0 0
+/images/slideshow/umm1.jpg
+1 4 0 905020 0 0 0 0
+/assets/libs/jquery-gmap3/gmap3.min.js
+0 3 0 27867 0 0 0 0
+/assets/js/pages/portfolio.js
+0 5 0 4140 0 0 0 0
+/robots.txt
+0 4 0 260 0 0 0 0
+/assets/libs/jquery-browser/jquery.browser.min.js
+0 5 0 5505 0 0 0 0
+/assets/img/apple-touch-icon-144x144.png
+1 4 0 22184 0 0 0 0
+/assets/css/style.css
+0 21 0 120876 0 0 0 0
+/venue.html
+0 4 0 10764 0 0 0 0
+/assets/css/timeline.css
+0 6 0 8280 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+78.e9.36a9.ip4.static.sl-reverse.com
+0 1 1 32997 1 1522540801 0 0
+/
+95-108-181-66.spider.yandex.com
+0 3 3 195 0 0 0 0
+-
+google-proxy-64-233-173-40.google.com
+0 75 72 1138787 1 1522609216 0 0
+/speakers.html
+204.79.180.10
+0 1 1 4690 0 0 0 0
+-
+204.79.180.18
+0 2 2 8720 0 0 0 0
+-
+google-proxy-64-233-173-62.google.com
+0 2 2 300932 0 0 0 0
+-
+64.246.178.34
+0 2 2 6161 1 1522614112 0 0
+/
+5.188.9.80
+0 22 0 9844 1 1522565588 0 0
+-
+204.79.180.12
+0 1 1 9787 0 0 0 0
+-
+204.79.180.6
+0 4 4 26405 0 0 0 0
+-
+google-proxy-64-233-173-58.google.com
+0 1 1 1101 0 0 0 0
+-
+204.79.180.4
+0 1 1 5756 0 0 0 0
+-
+msnbot-40-77-167-182.search.msn.com
+0 1 1 6096 1 1522560724 0 0
+/
+brhm-google-cdn-08.network.virginmedia.net
+0 36 36 1640901 1 1522611628 0 0
+/assets/js/pages/
+204.79.180.3
+0 1 1 1025 0 0 0 0
+-
+google-proxy-64-233-173-42.google.com
+0 84 81 1467264 1 1522609124 0 0
+-
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com
+0 1 1 6096 1 1522597813 0 0
+/
+google-proxy-64-233-173-38.google.com
+0 6 6 26729 0 0 0 0
+-
+204.79.180.16
+0 1 1 1025 0 0 0 0
+-
+google-proxy-64-233-173-56.google.com
+0 1 1 2268 0 0 0 0
+-
+204.79.180.15
+0 3 3 11491 0 0 0 0
+-
+204.79.180.7
+0 3 3 2579 1 1522541122 0 0
+/assets/js/pages/
+204.79.180.13
+0 3 3 21811 0 0 0 0
+-
+46-118-116-28.broadband.kyivstar.net
+0 1 0 426 1 1522638676 0 0
+-
+204.79.180.11
+0 1 1 574 0 0 0 0
+-
+google-proxy-64-233-173-52.google.com
+0 1 1 65447 0 0 0 0
+-
+google-proxy-64-233-173-44.google.com
+0 61 60 1093361 1 1522609132 0 0
+/venue.html
+204.79.180.0
+0 1 1 4021 0 0 0 0
+-
+204.79.180.1
+0 3 3 45525 0 0 0 0
+-
+87-250-224-105.spider.yandex.com
+0 2 2 3920 0 0 0 0
+-
+msnbot-40-77-167-138.search.msn.com
+0 1 1 6096 1 1522615642 0 0
+/
+204.79.180.17
+0 4 4 46623 1 1522541087 0 0
+/
+204.79.180.8
+0 1 1 574 0 0 0 0
+-
+204.79.180.5
+0 2 2 6988 0 0 0 0
+-
+cache.google.com
+0 36 36 1640901 1 1522611625 0 0
+/assets/js/pages/
+213-180-203-52.spider.yandex.com
+0 1 1 2774 0 0 0 0
+-
+204.79.180.22
+0 1 1 7619 0 0 0 0
+-
+google-proxy-64-233-173-50.google.com
+0 1 1 3744 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+46-118-116-28.broadband.kyivstar.net
+0 1 0 426 1 1522638676 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://amca2018.org/proceeding.html
+0 8
+http://www.amca2018.org/assets/libs/iconmoon/style.css
+0 2
+http://www.amca2018.org/assets/css/style.css
+0 2
+http://amca2018.org/
+0 32
+http://amca2018.org/assets/libs/iconmoon/style.css
+0 1
+http://amca2018.org/callforpapers.html
+0 64
+http://amca2018.org/index.html
+0 44
+- (Direct Request)
+0 39
+http://amca2018.org/venue.html
+0 31
+http://amca2018.org/forauthors.html
+0 1
+http://www.amca2018.org/
+0 66
+http://amca2018.org/committees.html
+0 25
+http://amca2018.org/assets/css/style.css
+0 2
+http://amca2018.org/speakers.html
+0 55
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 36
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; F1f Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari
+0 232
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)
+0 33
+NYU Internet Census (https://scan.lol; research@scan.lol)
+0 22
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
